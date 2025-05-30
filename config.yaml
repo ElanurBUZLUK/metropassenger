@@ -1,0 +1,9 @@
+video_settings:
+  path: 'metro_sample.mp4'
+
+counter_settings:
+  cooldown_frames: 45
+
+detector_settings:
+  model_path: 'yolov8n_person_door.pt'
+  confidence_threshold: 0.3
